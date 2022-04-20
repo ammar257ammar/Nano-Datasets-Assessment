@@ -93,3 +93,40 @@ This list provides an overview of datasets related to nanosafety.
 * License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 * URL: [https://onlinelibrary.wiley.com/doi/10.1111/risa.12109](https://onlinelibrary.wiley.com/doi/10.1111/risa.12109)
 * DOI: 10.1111/risa.12109
+
+
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.1080/17435390.2019.1595206"></div>
+
+## Application of Bayesian networks in determining nanoparticle-induced cellular outcomes using transcriptomics (2019)
+<script type="application/ld+json">
+{	
+		"@context": {
+			"bs": "https://bioschemas.org/",
+			"schema": "https://schema.org/",
+			"citation": "schema:citation",
+			"name": "schema:name",
+			"url": "schema:url",
+			"variableMeasured": "schema:variableMeasured"
+		},
+		"@type": "schema:Dataset",
+		"name": "Application of Bayesian networks in determining nanoparticle-induced cellular outcomes using transcriptomics",
+		"url": "https://nanohub.org/resources/30104/download/Literature_transcriptomics_review_and_data_of_Nanoparticle_Induced_Cellular_Outcomes.xlsx",
+		"citation": "https://doi.org/10.1080/17435390.2019.1595206",
+		"@id": "10.1080/17435390.2019.1595206",
+		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+		"schema:license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+		"schema:creator": [
+		  {
+			"@type": "schema:Organization",
+			"name": "RiskGONE"
+		  }
+		],
+		"schema:datePublished": "2019-01-11"
+	}
+</script>
+
+* [Dataset Overview](overview/03.md)
+* Date: 2019-01-11
+* License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+* URL: [https://www.tandfonline.com/doi/full/10.1080/17435390.2019.1595206](https://www.tandfonline.com/doi/full/10.1080/17435390.2019.1595206)
+* DOI: 10.1080/17435390.2019.1595206
